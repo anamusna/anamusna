@@ -10,7 +10,7 @@ With over a decade of experience in the tech industry and five years as a hands-
   - Working on impactful projects.
   - Actively participate in product development.
   - Continuous learning and growth.
-  - A collaborative team with open communication and teamwork.
+  - Working in a collaborative team with open communication and teamwork.
  
 - 💬 Learn more about my portfolio by visiting my website at [darboe.netlify.app](https://darboe.netlify.app/). Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
 - 📫 You can contact me via [email](mailto:darboe@posteo.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/ansumana-darboe/).
