@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey 👋, it's me Ansumana Darboe (Ansu)
 
-<!--
-**anamusna/anamusna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### An experienced Fullstack Developer currently based in Berlin and originally from The Gambia 🇬🇲
 
-Here are some ideas to get you started:
+With over a decade of experience in the tech industry and five years as a hands-on full-stack developer, I've consistently built and delivered scalable and high-performing applications. My expertise covers both front-end and back-end development, including website and app development, cloud infrastructure management, optimization techniques, and database design. I take pride in my ability to write clean, maintainable code that meets the specific requirements of each project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 While the majority of my projects are private and hosted on either Bitbucket or Gitlab, you can find some of my work publicly available at [Github](https://github.com/anamusna).
+- 🤔 My main objectives are:
+  - Contributing my full-stack development skills effectively.
+  - Working on impactful projects.
+  - Actively participate in product development.
+  - Continuous learning and growth.
+  - A collaborative team with open communication and teamwork.
+ 
+💬 Learn more about my portfolio by visiting my website at [darboe.netlify.app](https://darboe.netlify.app/). Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
+📫 You can contact me via [email](mailto:darboe@posteo.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/ansumana-darboe/).
