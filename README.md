@@ -1,4 +1,4 @@
-## Hey 👋, it's me - Ansumana Darboe (Ansu)
+## Hey 👋, it's me - Ansu
 
 ### An experienced Fullstack Developer currently based in Berlin and originally from The Gambia 🇬🇲
 
