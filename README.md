@@ -12,7 +12,7 @@ With over a decade of experience in the tech industry and five years as a hands-
   - Continuous learning and growth.
   - Working in a collaborative team with open communication and teamwork.
  
-- 💬 Learn more about my portfolio by visiting my website at [darboe.netlify.app](https://darboe.netlify.app/). Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
+- 💬 Learn more about my portfolio by visiting my website at [ansumana-darboe.netlify.app](https://ansumana-darboe.netlify.app). Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
 - 📫 You can contact me via [email](mailto:darboe@posteo.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/ansumana-darboe/).
 
 ## Languages and Tools I Use
